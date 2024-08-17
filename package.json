@@ -1,0 +1,19 @@
+{
+  "name": "manage_student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-sql": "^1.0.3",
+    "express": "^4.19.2",
+    "express-validator": "^7.2.0",
+    "msnodesqlv8": "^4.2.1",
+    "mssql": "^11.0.1"
+  }
+}
